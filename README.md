@@ -6,11 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[QBUS Framework | NP Base](https://github.com/uNwinD-Development)**
 
 - 🌱 I’m currently learning **Discord.js.**
-
-- 👨‍💻 All of my projects are available at **[My Discord](https://discord.gg/PBtUX54NcA)**
 
 - 📫 My discord tag **```<uNwinD/>#7067```**
 
