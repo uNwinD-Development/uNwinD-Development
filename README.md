@@ -45,7 +45,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/uNwinD-Development/github-readme-activity-graph"><img alt=" uNwinD's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uNwinD-Development&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
