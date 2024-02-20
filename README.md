@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🙋‍♂️ Owner of <EthicalPixel> ( Fivem resources develompent and script store )  | https://discord.gg/W5MtEHy5ga
+- 🙋‍♂️ Owner of EthicalPixel ( Fivem resources develompent and script store )  | https://discord.gg/W5MtEHy5ga
 
 - 📫 My discord tag **```.unwind```**
 
