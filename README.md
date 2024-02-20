@@ -6,10 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
+- 🙋‍♂️ Owner of <EthicalPixel> ( Fivem resources develompent and script store )  | https://discord.gg/W5MtEHy5ga
 
-- 🌱 I’m currently learning **Discord.js.**
-
-- 📫 My discord tag **```<uNwinD/>#7067```**
+- 📫 My discord tag **```.unwind```**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
