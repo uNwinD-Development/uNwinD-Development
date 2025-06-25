@@ -2,7 +2,15 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/336575770917076993/1386746232994533456/logo-no-text.png?ex=685d7692&is=685c2512&hm=d0cef5ea6d70e91c59a1203f930f8a1a3627111537ba63155e05d365c40ed98d&"  />
+<img align="right" height="180" src="https://cdn.discordapp.com/attachments/336575770917076993/1387499365433606305/pngegg.png?ex=685d90fb&is=685c3f7b&hm=7ecc17b8f314aff7c89648006ef4b15489ce574372117d8ca861850f4c85ae69&"  />
+
+###
+
+<div align="center">
+  <a href="https://discord.gg/jyQfcDPVV2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -37,9 +45,19 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/jyQfcDPVV2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/uNwinD-Development/count.svg?"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="630" src="https://cdn.discordapp.com/attachments/336575770917076993/1387498808363188454/Untitled_design.png?ex=685d9076&is=685c3ef6&hm=4c616299c44f4b5a81041f938a25929236d26604bf00aa09a66acc5f1cbb5f5a&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/uNwinD-Development/uNwinD-Development/output/snake.svg" alt="Snake animation" />
 
 ###
