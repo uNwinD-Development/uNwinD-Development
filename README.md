@@ -1,16 +1,18 @@
-<h2 align="center"></h2>
-
-###
-
-<img align="right" height="180" src="https://cdn.discordapp.com/attachments/336575770917076993/1387499365433606305/pngegg.png?ex=685d90fb&is=685c3f7b&hm=7ecc17b8f314aff7c89648006ef4b15489ce574372117d8ca861850f4c85ae69&"  />
-
-###
-
 <div align="center">
-  <a href="https://discord.gg/jyQfcDPVV2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  <img height="200" src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hello+There+%F0%9F%91%8B+I'm+unwind;I+Share+Free+Scripts+Here+%F0%9F%92%96;Feel+Free+To+Leave+A+%F0%9F%8C%9F;My+Discord+ID+is+.unwind"  />
 </div>
+
+###
+
+<p align="center"></p>
+
+###
+
+<h1 align="center">Tebex : unwind-development.tebex.io<br>Discord : discord.gg/jyQfcDPVV2</h1>
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/uNwinD-Development/count.svg?"  />
 
 ###
 
@@ -44,20 +46,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/uNwinD-Development/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="630" src="https://cdn.discordapp.com/attachments/336575770917076993/1387498808363188454/Untitled_design.png?ex=685d9076&is=685c3ef6&hm=4c616299c44f4b5a81041f938a25929236d26604bf00aa09a66acc5f1cbb5f5a&"  />
-</div>
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/uNwinD-Development/uNwinD-Development/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="566" src="https://cdn.discordapp.com/attachments/336575770917076993/1387501233530470522/Untitled_design_1.png?ex=685d92b8&is=685c4138&hm=256678066f74fc4c11cf4985e1ef8173c4dff7a94bf0826e10e6fc347dc7c2c3&"  />
+</div>
 
 ###
