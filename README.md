@@ -47,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="566" src="https://cdn.discordapp.com/attachments/336575770917076993/1387501233530470522/Untitled_design_1.png?ex=685d92b8&is=685c4138&hm=256678066f74fc4c11cf4985e1ef8173c4dff7a94bf0826e10e6fc347dc7c2c3&"  />
+  <img height="450" src="https://cdn.discordapp.com/attachments/336575770917076993/1387501233530470522/Untitled_design_1.png?ex=685d92b8&is=685c4138&hm=256678066f74fc4c11cf4985e1ef8173c4dff7a94bf0826e10e6fc347dc7c2c3&"  />
 </div>
 
 ###
