@@ -8,8 +8,6 @@
 
 ###
 
-<h1 align="center">Tebex : unwind-development.tebex.io<br>Discord : discord.gg/jyQfcDPVV2</h1>
-
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/uNwinD-Development/count.svg?"  />
